@@ -31,7 +31,7 @@ Database: excel/server-SQL
 
 Product Management: JIRA, Google Docs, Confluence
 
-Diagramming: PlantUML
+Diagramming: PlantUML,Lucidchart
 
 🚀 Vision
 
