@@ -25,6 +25,8 @@ Modern Architecture: Built using Agile principles with 3-week sprints and user-f
 
 AI Layer: OpenAI / NLP Models
 
+API:Youtube API
+
 Database: excel/server-SQL
 
 Product Management: JIRA, Google Docs, Confluence
